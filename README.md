@@ -27,3 +27,6 @@ the `sinatra` and `haml` gems.
 The project includes a `config.yml.example` file, which you should
 rename to `config.yml`. The format is documented in the config file
 itself.
+
+
+TEST CHANGE
